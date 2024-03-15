@@ -11,4 +11,4 @@ isShowComments: true
 
 ## 微信二维码
 
-![二维码](./cv/images/个人微信二维码.jpg)
+![二维码](./个人微信二维码.jpg)

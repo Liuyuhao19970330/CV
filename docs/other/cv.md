@@ -2,5 +2,5 @@
 sidebar: false
 isComment: false
 isShowReward: false
-layout: Projects2
+layout: CV
 ---

@@ -53,7 +53,7 @@ html::-webkit-scrollbar-thumb {
 
 /* 公共样式 */
 /* 标题 */
-.title{
+.title_1{
   font-size: 25px;
   color: var(--blue);
   margin-bottom: 15px;
